@@ -1,8 +1,7 @@
 create database company;
 select * from Sales;
 use company
-select  COUNT
-   FROM Sales ;
+
 
 --- 1.Find all orders shipped via 'econmoy' mode with total amount greater than 25000
 select * from Sales

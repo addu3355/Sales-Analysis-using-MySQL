@@ -14,7 +14,7 @@ To perform in-depth sales data analysis to uncover trends, customer behavior, an
 
 # 🔄 Steps Included
 
-- Created and accessed the sales database.
+- Created and accessed the Company database.
 - Queried data based on shipping mode, product category, and geography.
 - Applied filters and pattern matching for advanced data retrieval.
 - Used aggregate functions to summarize revenue, orders, and regions.

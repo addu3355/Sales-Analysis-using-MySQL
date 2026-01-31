@@ -38,7 +38,7 @@ To perform in-depth sales data analysis to uncover trends, customer behavior, an
 - City-level breakdown shows top contributors to overall sales.
 
 
-# ✅ Conclusion
+#  Conclusion
 
 - SQL is a powerful tool for extracting actionable insights from sales data. This project showcases how structured queries can support decision-making by uncovering key business metrics and trends.
 

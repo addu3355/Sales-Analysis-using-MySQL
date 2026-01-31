@@ -1,18 +1,18 @@
 # Sales Analysis using MySQL
 
-# 📌 **Objective**
+#  **Objective**
 
 To perform in-depth sales data analysis to uncover trends, customer behavior, and business performance insights using SQL queries.
 
 
-# 🛠️ Tools Used
+#  Tools Used
 
 - MySQL Server
 - MySQL WorkBench
 - SQL Queries(DDL+DML+Aggregations)
 
 
-# 🔄 Steps Included
+#  Steps Included
 
 - Created and accessed the Company database.
 - Queried data based on shipping mode, product category, and geography.
@@ -21,7 +21,7 @@ To perform in-depth sales data analysis to uncover trends, customer behavior, an
 - Implemented ranking and sorting for top-performing products and customers.
 
 
-# 📊 Analysis Included
+#  Analysis Included
 
 - Orders shipped via specific modes.
 - Category and country-specific sales post a certain date.
@@ -30,7 +30,7 @@ To perform in-depth sales data analysis to uncover trends, customer behavior, an
 - Revenue, cost, and order volume metrics.
 - Product rankings based on sales.
 
-# 💡 Key Insights
+#  Key Insights
 
 - High-value economy mode shipments identified.
 - Technology category performs well in Ireland post-2020.
